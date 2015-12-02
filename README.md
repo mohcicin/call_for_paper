@@ -25,6 +25,12 @@ https://www.google.com/search?q=%22shortest%20path%20and%20deposit%20pheromone%2
 https://www.google.com/search?q=%22likely%20to%20be%20selected.%20If%20on%20the%20contrary%20%CE%B2=0,%20only%20pheromone%22
 
 
+
+
+==============================> 02/12/2015
+Ant Colony Optimization for Distributed Routing Path Optimization
+
+
 https://www.google.com/search?q=%22architecture%20of%20computational%20networks,%20etc.%20in%20addition,%22
 
 https://www.google.com/search?q=%22The%20pheromone%20level%20is%20updated%20by%20applying%20the%20global%20updating%22
