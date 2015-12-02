@@ -37,3 +37,8 @@ https://www.google.com/search?q=%22The%20pheromone%20level%20is%20updated%20by%2
 
 
 https://www.google.com/search?q=%22the%20TSP,%20ants%20visit%20edges%20and%20change%20their%20pheromone%20level%22
+
+
+
+****************************
+Ant Colony Optimization for Distributed Routing Path Optimization
