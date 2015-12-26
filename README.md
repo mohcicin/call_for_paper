@@ -42,3 +42,12 @@ https://www.google.com/search?q=%22the%20TSP,%20ants%20visit%20edges%20and%20cha
 
 ****************************
 Ant Colony Optimization for Distributed Routing Path Optimization
+
+
+
+
+******************************
+
+http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1201&context=theses
+
+Traffic light signal : http://www.e-ijaet.org/media/44I11-IJAET1111121-Automatic-Traffic.pdf
