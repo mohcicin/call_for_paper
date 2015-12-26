@@ -51,3 +51,9 @@ Ant Colony Optimization for Distributed Routing Path Optimization
 http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1201&context=theses
 
 Traffic light signal : http://www.e-ijaet.org/media/44I11-IJAET1111121-Automatic-Traffic.pdf
+
+https://books.google.fr/books?id=Kp3YBAAAQBAJ&pg=PA1196&lpg=PA1196&dq=distributed+traffic+light+ant+colony+optimization&source=bl&ots=kqStCa1PmS&sig=kqqsB_H1kxc1EaU36jOckM4IOW0&hl=en&sa=X&redir_esc=y#v=onepage&q=distributed%20traffic%20light%20ant%20colony%20optimization&f=false
+
+http://www.hindawi.com/journals/mpe/2014/104349/
+
+http://moscow.sci-hub.io/5f3a4f47bbd9039b78cde064e244444f/renfrew2009.pdf
